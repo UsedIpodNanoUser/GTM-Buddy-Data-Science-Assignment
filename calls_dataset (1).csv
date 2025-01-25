@@ -1,0 +1,201 @@
+id,text_snippet,labels
+1,Budget is tight. not sure.,Pricing Discussion
+2,How do you address performance for enterprise clients?,Technical Inquiry
+3,Our CFO is interested in understanding cost savings.,Decision Maker Interaction
+4,We're experiencing manual reporting and need a robust solution.,Positive
+5,How do you address data security for enterprise clients?,Technical Inquiry
+6,Budget is tight. need approval.,Pricing Discussion
+7,How do you address data security for enterprise clients?,Technical Inquiry
+8,Currently current contract expiring. Can you walk me through your offering?,Positive
+9,How do you address integration for enterprise clients?,Technical Inquiry
+10,We're looking at solutions in the finance sector. manual reporting is our main challenge.,Industry Specific
+11,We're looking at solutions in the education sector. inefficient process is our main challenge.,Industry Specific
+12,I'm seeing quotes from Tupac Solutions. What makes your solution different?,Competition
+13,We're looking at solutions in the healthcare sector. inefficient process is our main challenge.,Industry Specific
+14,Our CEO is interested in understanding increased efficiency.,Decision Maker Interaction
+15,Currently looking for alternatives. Can you walk me through your offering?,Positive
+16,How do you address scalability for enterprise clients?,Technical Inquiry
+17,I'm seeing quotes from KDot Technologies. What makes your solution different?,Competition
+18,Our CTO is interested in understanding increased efficiency.,Decision Maker Interaction
+19,Budget is tight. need approval.,Pricing Discussion
+20,How do you address data security for enterprise clients?,Technical Inquiry
+21,Budget is tight. not sure.,Pricing Discussion
+22,I'm seeing quotes from JCole Corporation. What makes your solution different?,Competition
+23,We're looking at solutions in the education sector. lack of insights is our main challenge.,Industry Specific
+24,Our IT Director is interested in understanding streamlined operations.,Decision Maker Interaction
+25,We're looking at solutions in the healthcare sector. lack of insights is our main challenge.,Industry Specific
+26,I'm seeing quotes from Nas and Co. What makes your solution different?,Competition
+27,We're looking at solutions in the retail sector. inefficient process is our main challenge.,Industry Specific
+28,I'm seeing quotes from KDot Technologies. What makes your solution different?,Competition
+29,Our Head of Data is interested in understanding competitive advantage.,Decision Maker Interaction
+30,I'm seeing quotes from MosDef Analytics. What makes your solution different?,Competition
+31,Currently evaluating solutions. Can you walk me through your offering?,Positive
+32,We're experiencing integration challenges and need a robust solution.,Technical Inquiry
+33,Our Chief Data Officer is interested in understanding increased efficiency.,Decision Maker Interaction
+34,We're experiencing scalability issues and need a robust solution.,Technical Inquiry
+35,What predictive modeling can help us improve our current processes?,Positive
+36,What data pipeline can help us improve our current processes?,Positive
+37,What analytics can help us improve our current processes?,Positive
+38,What Natural language processing can help us improve our current processes?,Positive
+39,What Regression and classification can help us improve our current processes?,Positive
+40,We're looking at solutions in the telecommunications sector. integration challenges is our main challenge.,"Technical Inquiry, Industry Specific"
+41,Budget is tight. need approval.,Pricing Discussion
+42,Budget is tight. need approval.,Pricing Discussion
+43,I'm seeing quotes from Nas and Co. What makes your solution different?,Competition
+44,How do you address scalability for enterprise clients?,Technical Inquiry
+45,What AI can help us improve our current processes?,Positive
+46,What Big data can help us improve our current processes?,Positive
+47,Currently looking for alternatives. Can you walk me through your offering?,Positive
+48,We're experiencing integration challenges and need a robust solution.,Technical Inquiry
+49,Budget is tight. vendor lock-in.,Pricing Discussion
+50,How do you address reliability for enterprise clients?,Technical Inquiry
+51,What machine learning can help us improve our current processes?,Positive
+52,I'm seeing quotes from Tupac Solutions. What makes your solution different?,Competition
+53,We're experiencing manual reporting and need a robust solution.,Positive
+54,Our Chief Data Officer is interested in understanding increased efficiency.,Decision Maker Interaction
+55,We're experiencing lack of insights and need a robust solution.,Positive
+56,How do you address integration for enterprise clients?,Technical Inquiry
+57,We're looking at solutions in the finance sector. integration challenges is our main challenge.,"Technical Inquiry, Industry Specific"
+58,Our Head of Data is interested in understanding streamlined operations.,Decision Maker Interaction
+59,Our Head of Data is interested in understanding competitive advantage.,Decision Maker Interaction
+60,We're experiencing scalability issues and need a robust solution.,Technical Inquiry
+61,Budget is tight. complex implementation.,Pricing Discussion
+62,How do you address compliance for enterprise clients?,Technical Inquiry
+63,What data pipeline can help us improve our current processes?,Positive
+64,I'm seeing quotes from Tupac Solutions. What makes your solution different?,Competition
+65,We're experiencing data silos and need a robust solution.,Positive
+66,Budget is tight. complex implementation.,Pricing Discussion
+67,We're experiencing inefficient process and need a robust solution.,Positive
+68,Our VP of Technology is interested in understanding streamlined operations.,Decision Maker Interaction
+69,Currently current contract expiring. Can you walk me through your offering?,Positive
+70,Currently looking for alternatives. Can you walk me through your offering?,Positive
+71,I'm seeing quotes from KDot Technologies. What makes your solution different?,Competition
+72,I'm seeing quotes from Nas and Co. What makes your solution different?,Competition
+73,Budget is tight. budget constraints.,Pricing Discussion
+74,We're looking at solutions in the finance sector. data silos is our main challenge.,Industry Specific
+75,We're experiencing integration challenges and need a robust solution.,Technical Inquiry
+76,Budget is tight. too expensive.,Pricing Discussion
+77,We're looking at solutions in the manufacturing sector. integration challenges is our main challenge.,"Technical Inquiry, Industry Specific"
+78,We're looking at solutions in the manufacturing sector. integration challenges is our main challenge.,"Technical Inquiry, Industry Specific"
+79,I'm seeing quotes from Nas and Co. What makes your solution different?,Competition
+80,Currently looking for alternatives. Can you walk me through your offering?,Positive
+81,Currently current contract expiring. Can you walk me through your offering?,Positive
+82,Budget is tight. too expensive.,Pricing Discussion
+83,We're looking at solutions in the retail sector. integration challenges is our main challenge.,"Technical Inquiry, Industry Specific"
+84,Budget is tight. not sure.,Pricing Discussion
+85,We're experiencing inefficient process and need a robust solution.,Positive
+86,We're experiencing manual reporting and need a robust solution.,Positive
+87,How do you address performance for enterprise clients?,Technical Inquiry
+88,What analytics can help us improve our current processes?,Positive
+89,Our CFO is interested in understanding cost savings.,Decision Maker Interaction
+90,Our CEO is interested in understanding competitive advantage.,Decision Maker Interaction
+91,We're looking at solutions in the education sector. inefficient process is our main challenge.,Industry Specific
+92,Budget is tight. not sure.,Pricing Discussion
+93,How do you address data security for enterprise clients?,Technical Inquiry
+94,Currently evaluating solutions. Can you walk me through your offering?,Positive
+95,What machine learning can help us improve our current processes?,Positive
+96,We're looking at solutions in the education sector. integration challenges is our main challenge.,"Technical Inquiry, Industry Specific"
+97,We're experiencing lack of insights and need a robust solution.,Positive
+98,I'm seeing quotes from BiggyCorp. What makes your solution different?,Competition
+99,We're looking at solutions in the education sector. inefficient process is our main challenge.,Industry Specific
+100,We're looking at solutions in the telecommunications sector. data silos is our main challenge.,Industry Specific
+101,We're experiencing integration challenges and need a robust solution.,Technical Inquiry
+102,Our CIO is interested in understanding streamlined operations.,Decision Maker Interaction
+103,We're experiencing inefficient process and need a robust solution.,Positive
+104,How do you address scalability for enterprise clients?,Technical Inquiry
+105,How do you address scalability for enterprise clients?,Technical Inquiry
+106,How do you address scalability for enterprise clients?,Technical Inquiry
+107,We're experiencing scalability issues and need a robust solution.,Technical Inquiry
+108,Currently current contract expiring. Can you walk me through your offering?,Positive
+109,Our VP of Technology is interested in understanding competitive advantage.,Decision Maker Interaction
+110,Our CFO is interested in understanding competitive advantage.,Decision Maker Interaction
+111,Currently looking for alternatives. Can you walk me through your offering?,Positive
+112,We're experiencing manual reporting and need a robust solution.,Positive
+113,We're looking at solutions in the manufacturing sector. data silos is our main challenge.,Industry Specific
+114,Budget is tight. need approval.,Pricing Discussion
+115,We're looking at solutions in the finance sector. inefficient process is our main challenge.,Industry Specific
+116,Budget is tight. vendor lock-in.,Pricing Discussion
+117,Currently looking for alternatives. Can you walk me through your offering?,Positive
+118,How do you address reliability for enterprise clients?,Technical Inquiry
+119,Currently evaluating solutions. Can you walk me through your offering?,Positive
+120,Our Chief Data Officer is interested in understanding increased efficiency.,Decision Maker Interaction
+121,We're looking at solutions in the telecommunications sector. integration challenges is our main challenge.,"Technical Inquiry, Industry Specific"
+122,Budget is tight. vendor lock-in.,Pricing Discussion
+123,I'm seeing quotes from MosDef Analytics. What makes your solution different?,Competition
+124,Budget is tight. budget constraints.,Pricing Discussion
+125,How do you address reliability for enterprise clients?,Technical Inquiry
+126,What Big data can help us improve our current processes?,Positive
+127,How do you address data security for enterprise clients?,Technical Inquiry
+128,We're experiencing lack of insights and need a robust solution.,Positive
+129,I'm seeing quotes from JCole Corporation. What makes your solution different?,Competition
+130,Currently current contract expiring. Can you walk me through your offering?,Positive
+131,How do you address performance for enterprise clients?,Technical Inquiry
+132,We're looking at solutions in the healthcare sector. scalability issues is our main challenge.,"Technical Inquiry, Industry Specific"
+133,We're experiencing data silos and need a robust solution.,Positive
+134,How do you address reliability for enterprise clients?,Technical Inquiry
+135,Our VP of Technology is interested in understanding competitive advantage.,Decision Maker Interaction
+136,Our CFO is interested in understanding improved decision-making.,Decision Maker Interaction
+137,We're experiencing data silos and need a robust solution.,Positive
+138,Currently looking for alternatives. Can you walk me through your offering?,Positive
+139,What Natural language processing can help us improve our current processes?,Positive
+140,How do you address data security for enterprise clients?,Technical Inquiry
+141,We're experiencing lack of insights and need a robust solution.,Positive
+142,Budget is tight. budget constraints.,Pricing Discussion
+143,We're experiencing inefficient process and need a robust solution.,Positive
+144,Budget is tight. vendor lock-in.,Pricing Discussion
+145,Our CEO is interested in understanding streamlined operations.,Decision Maker Interaction
+146,We're experiencing manual reporting and need a robust solution.,Positive
+147,We're looking at solutions in the tech sector. data silos is our main challenge.,Industry Specific
+148,We're experiencing data silos and need a robust solution.,Positive
+149,I'm seeing quotes from JCole Corporation. What makes your solution different?,Competition
+150,Our CIO is interested in understanding increased efficiency.,Decision Maker Interaction
+151,We're experiencing integration challenges and need a robust solution.,Technical Inquiry
+152,Our CTO is interested in understanding competitive advantage.,Decision Maker Interaction
+153,I'm seeing quotes from Nas and Co. What makes your solution different?,Competition
+154,We're looking at solutions in the retail sector. lack of insights is our main challenge.,Industry Specific
+155,We're looking at solutions in the healthcare sector. inefficient process is our main challenge.,Industry Specific
+156,How do you address integration for enterprise clients?,Technical Inquiry
+157,We're looking at solutions in the telecommunications sector. inefficient process is our main challenge.,Industry Specific
+158,Our CIO is interested in understanding improved decision-making.,Decision Maker Interaction
+159,What AI can help us improve our current processes?,Positive
+160,We're experiencing integration challenges and need a robust solution.,Technical Inquiry
+161,Our IT Director is interested in understanding streamlined operations.,Decision Maker Interaction
+162,We're experiencing inefficient process and need a robust solution.,Positive
+163,We're experiencing lack of insights and need a robust solution.,Positive
+164,Currently looking for alternatives. Can you walk me through your offering?,Positive
+165,We're looking at solutions in the education sector. data silos is our main challenge.,Industry Specific
+166,How do you address integration for enterprise clients?,Technical Inquiry
+167,How do you address integration for enterprise clients?,Technical Inquiry
+168,Our CFO is interested in understanding increased efficiency.,Decision Maker Interaction
+169,We're experiencing manual reporting and need a robust solution.,Positive
+170,Currently seeking improvements. Can you walk me through your offering?,Positive
+171,What machine learning can help us improve our current processes?,Positive
+172,I'm seeing quotes from BiggyCorp. What makes your solution different?,Competition
+173,Our CEO is interested in understanding competitive advantage.,Decision Maker Interaction
+174,What Natural language processing can help us improve our current processes?,Positive
+175,What predictive modeling can help us improve our current processes?,Positive
+176,What predictive modeling can help us improve our current processes?,Positive
+177,I'm seeing quotes from Nas and Co. What makes your solution different?,Competition
+178,What analytics can help us improve our current processes?,Positive
+179,We're looking at solutions in the manufacturing sector. data silos is our main challenge.,Industry Specific
+180,I'm seeing quotes from Nas and Co. What makes your solution different?,Competition
+181,How do you address reliability for enterprise clients?,Technical Inquiry
+182,How do you address data security for enterprise clients?,Technical Inquiry
+183,What analytics can help us improve our current processes?,Positive
+184,I'm seeing quotes from Nas and Co. What makes your solution different?,Competition
+185,How do you address reliability for enterprise clients?,Technical Inquiry
+186,Currently current contract expiring. Can you walk me through your offering?,Positive
+187,We're experiencing data silos and need a robust solution.,Positive
+188,What predictive modeling can help us improve our current processes?,Positive
+189,Budget is tight. complex implementation.,Pricing Discussion
+190,I'm seeing quotes from MosDef Analytics. What makes your solution different?,Competition
+191,How do you address reliability for enterprise clients?,Technical Inquiry
+192,Our CIO is interested in understanding cost savings.,Decision Maker Interaction
+193,Our CFO is interested in understanding improved decision-making.,Decision Maker Interaction
+194,We're experiencing integration challenges and need a robust solution.,Technical Inquiry
+195,How do you address performance for enterprise clients?,Technical Inquiry
+196,We're experiencing manual reporting and need a robust solution.,Positive
+197,Currently current contract expiring. Can you walk me through your offering?,Positive
+198,We're looking at solutions in the healthcare sector. scalability issues is our main challenge.,"Technical Inquiry, Industry Specific"
+199,We're looking at solutions in the telecommunications sector. manual reporting is our main challenge.,Industry Specific
+200,We're looking at solutions in the retail sector. manual reporting is our main challenge.,Industry Specific

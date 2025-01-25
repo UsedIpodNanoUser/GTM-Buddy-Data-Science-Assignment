@@ -1,0 +1,98 @@
+{
+  "competitors": [
+    "Tupac Solutions",
+    "MosDef Analytics",
+    "BiggyCorp",
+    "KDot Technologies",
+    "JCole Corporation",
+    "Nas and Co"
+  ],
+  "features": [
+    "analytics",
+    "AI",
+    "data pipeline",
+    "machine learning",
+    "predictive modeling",
+    "real-time reporting",
+    "Big data",
+    "Regression and classification",
+    "Natural language processing"
+  ],
+  "pricing_keywords": [
+    "discount",
+    "renewal cost",
+    "budget",
+    "pricing model",
+    "cost-effective",
+    "ROI",
+    "constraints",
+    "shareholder value",
+    "profitability"
+  ],
+  "security_keywords": [
+    "CISSP",
+    "CISA",
+    "CISM",
+    "CompTIA Security+",
+    "GSEC",
+    "SSCP",
+    "CASP+",
+    "GCIH"
+  ],
+  "pain_points": [
+    "inefficient process",
+    "data silos",
+    "lack of insights",
+    "manual reporting",
+    "scalability issues",
+    "integration challenges"
+  ],
+  "objection_keywords": [
+    "too expensive",
+    "not sure",
+    "budget constraints",
+    "need approval",
+    "complex implementation",
+    "vendor lock-in"
+  ],
+  "decision_maker_roles": [
+    "CTO",
+    "CIO",
+    "CEO",
+    "CFO",
+    "VP of Technology",
+    "Head of Data",
+    "Chief Data Officer",
+    "IT Director"
+  ],
+  "success_indicators": [
+    "increased efficiency",
+    "cost savings",
+    "improved decision-making",
+    "competitive advantage",
+    "streamlined operations"
+  ],
+  "industry_verticals": [
+    "finance",
+    "healthcare",
+    "tech",
+    "retail",
+    "manufacturing",
+    "telecommunications",
+    "education"
+  ],
+  "purchasing_signals": [
+    "evaluating solutions",
+    "current contract expiring",
+    "seeking improvements",
+    "looking for alternatives"
+  ],
+  "technical_concerns": [
+    "data security",
+    "compliance",
+    "scalability",
+    "integration",
+    "performance",
+    "reliability"
+  ]
+}
